@@ -29,14 +29,8 @@
   text-align: center;
 }
 
-.img-container {
-  background-image: url(./images/sunflower.jpeg);
-  background-size: cover;
-  width: 180px;
-  height: 180px;
-  border-radius: 100%;
+.image img {
   border: 2px solid rgb(0, 100, 0);
-  margin-bottom: 0.5vh;
 }
   
 .contact-text p {
