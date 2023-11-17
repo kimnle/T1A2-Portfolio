@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kim's Portfolio</title>
+    <link rel="icon" type="image/x-icon" href="./images/favicon-32x32.png">
+    <script src="https://kit.fontawesome.com/655c589984.js" crossorigin="anonymous"></script>
+    <!-- CSS links -->
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./contact.css">
+</head>
+
+<body>
+    <!-- Header -->
+    <header>
+        <!-- Logo -->
+        <a href="./index.html">
+            <img src="./images/android-chrome-512x512.png" alt="Logo">
+        </a>
+        <!-- Navigation -->
+        <ul class="nav-container" id="nav">
+            <li><a href="./index.html">Home</a></li>
+            <li><a href="./about.html">About</a></li>
+            <li><a href="./blog.html">Blog</a></li>
+            <li><a href="./contact.html">Contact</a></li>
+        </ul>
+        <!-- Menu icon -->
+        <div id="btn"><i class="fa-solid fa-bars" id="icon"></i></div>
+    </header>
+    <!-- Contact section -->
+    <section class="contact-section" id="contact">
+        <div class="container">
+          <div class="contact-text">
+            <h2>Contact me</h2>
+            <div class="img-container">
+            </div>
+            <p>Email: 15149@coderacademy.edu.au</p>
+            <p>Phone: 0412 345 678</p>
+            <p>Or connect with me via</p>
+            <button><a href="https://www.linkedin.com/in/kim-le-0558bb191/" target="_blank">LinkedIn</a></button>
+            <button><a href="https://github.com/kimnle" target="_blank">GitHub</a></button>
+          </div>
+        </div>
+    </section>
+    <!-- Navigation menu -->
+    <script>
+        var btn = document.getElementById('btn')
+        btn.addEventListener('click', function () {
+            let nav = document.getElementById('nav')
+            nav.classList.toggle("hide");
+            var icon = document.getElementById('icon')
+            if (icon.classList.contains('fa-bars')) {
+                icon.classList.remove('fa-bars');
+                icon.classList.add('fa-xmark');
+            } else {
+                icon.classList.remove('fa-xmark');
+                icon.classList.add('fa-bars');
+            }
+        })
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kim's Portfolio</title>
+    <link rel="icon" type="image/x-icon" href="./images/favicon-32x32.png">
+    <script src="https://kit.fontawesome.com/655c589984.js" crossorigin="anonymous"></script>
+    <!-- CSS links -->
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./blog.css">
+</head>
+
+<body>
+    <!-- Header -->
+    <header>
+        <!-- Logo -->
+        <a href="./index.html">
+            <img src="./images/android-chrome-512x512.png" alt="Logo">
+        </a>
+        <!-- Navigation -->
+        <ul class="nav-container" id="nav">
+            <li><a href="./index.html">Home</a></li>
+            <li><a href="./about.html">About</a></li>
+            <li><a href="./blog.html">Blog</a></li>
+            <li><a href="./contact.html">Contact</a></li>
+        </ul>
+        <!-- Menu icon -->
+        <div id="btn"><i class="fa-solid fa-bars" id="icon"></i></div>
+    </header>
+    <!-- Blog section -->
+    <section class="blog-section" id="blogs">
+        <h2>Blogs</h2>
+        <div class="blog-cards">
+            <div class="blog-card">
+                <div class="img"><img src="./images/cat.jpg" alt="Cat"></div>
+                <h3>Post 1</h3>
+                <p>Published 6 Feb 2023</p>
+                <button> <a href="./post1.html">Read post</a></button>
+            </div>
+
+            <div class="blog-card">
+                <div class="img"><img src="./images/dog.jpg" alt="Dog"></div>
+                <h3>Post 2</h3>
+                <p>Published 13 Sep 2023</p>
+                <button> <a href="./post2.html">Read post</a></button>
+            </div>
+
+            <div class="blog-card">
+                <div class="img"><img src="./images/birds.jpg" alt="Birds"></div>
+                <h3>Post 3</h3>
+                <p>Published 15 Oct 2023</p>
+                <button> <a href="./post3.html">Read post</a></button>
+            </div>
+
+            <div class="blog-card">
+                <div class="img"><img src="./images/dolphin.jpg" alt="Dolphin"></div>
+                <h3>Post 4</h3>
+                <p>Published 23 Oct 2023</p>
+                <button> <a href="./post4.html">Read post</a></button>
+            </div>
+
+            <div class="blog-card">
+                <div class="img"><img src="./images/shark.jpg" alt="Shark"></div>
+                <h3>Post 5</h3>
+                <p>Published 24 Oct 2023</p>
+                <button> <a href="./post5.html">Read post</a></button>
+            </div>
+        </div>
+    </section>
+    <!-- Navigation menu -->
+    <script>
+        var btn = document.getElementById('btn')
+        btn.addEventListener('click', function () {
+            let nav = document.getElementById('nav')
+            nav.classList.toggle("hide");
+            var icon = document.getElementById('icon')
+            if (icon.classList.contains('fa-bars')) {
+                icon.classList.remove('fa-bars');
+                icon.classList.add('fa-xmark');
+            } else {
+                icon.classList.remove('fa-xmark');
+                icon.classList.add('fa-bars');
+            }
+        })
+    </script>
+    
+</body>
+</html>

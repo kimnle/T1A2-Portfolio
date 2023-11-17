@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kim's Portfolio</title>
+    <link rel="icon" type="image/x-icon" href="./images/favicon-32x32.png">
+    <script src="https://kit.fontawesome.com/655c589984.js" crossorigin="anonymous"></script>
+    <!-- CSS link -->
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <!-- Header -->
+    <header>
+        <!-- Logo -->
+        <a href="./index.html">
+            <img src="./images/android-chrome-512x512.png" alt="Logo">
+        </a>
+        <!-- Navigation -->
+        <ul class="nav-container" id="nav">
+            <li><a href="./index.html">Home</a></li>
+            <li><a href="./about.html">About</a></li>
+            <li><a href="./blog.html">Blog</a></li>
+            <li><a href="./contact.html">Contact</a></li>
+        </ul>
+        <!-- Menu icon -->
+        <div id="btn"><i class="fa-solid fa-bars" id="icon"></i></div>
+    </header>
+    <!-- Main -->
+    <main>
+        <div class="image-container"></div>
+        <p>Hey World!</p>
+        <h1>I'm Kim</h1>
+        <div class="txt">
+            <p class="text">I'm an aspiring full-stack developer<br>Learn about me personally and professionally through my portfolio website</p>
+        </div>
+    </main>
+    <!-- Navigation menu -->
+    <script>
+        var btn = document.getElementById('btn')
+        btn.addEventListener('click', function () {
+            let nav = document.getElementById('nav')
+            nav.classList.toggle("hide");
+            var icon = document.getElementById('icon')
+            if (icon.classList.contains('fa-bars')) {
+                icon.classList.remove('fa-bars');
+                icon.classList.add('fa-xmark');
+            } else {
+                icon.classList.remove('fa-xmark');
+                icon.classList.add('fa-bars');
+            }
+        })
+    </script>
+
+</body>
+</html>
