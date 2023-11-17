@@ -46,3 +46,4 @@ I designed the "My Resume" link to open the PDF of my resume in an external tab 
 
 ### Blog
 
+The blog cards are 
