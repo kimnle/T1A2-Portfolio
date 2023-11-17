@@ -32,3 +32,4 @@ I wrote a some content about my interests to demonstrate my personality.
 Within the "my skills" part are bars showing my learning progress of each skill - HTML, CSS and Git being what we've learnt so far in this boot camp.
 
 An unordered list of my work and study history is provided.
+
