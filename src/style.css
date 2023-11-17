@@ -189,7 +189,7 @@ main h1 {
     }
 }
 /* Mobile */
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 425px) {
     header>img {
         height: 7vh;
     }
