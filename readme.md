@@ -12,7 +12,7 @@ To showcase me and my skills as an aspiring full-stack developer in the world of
 
 This is a responsive portfolio website that works for any device.
 
-I designed the portfolio website to be simple (can you tell yellow is my favourite colour?). As yellow is the main colour I used black text to increase visibility.
+I designed the portfolio website to be simple. As yellow is the main colour I used black text to increase visibility.
 
 There is a logo and navigation bar at the top of every page linking to the other main pages. The logo links to the home page. When adjusted to tablet and mobile device the navigation becomes a menu icon and when clicked on pops up a list of the links to the other main pages.
 
@@ -30,11 +30,11 @@ This portfolio has the following pages:
 
 ### Home
 
-Keeping to the simplicity theme the home page has a picture of me with a yellow sunflower (of course), an introduction and a description of the website centreing it in the middle of the page.
+Keeping to the simplicity theme the home page contains a picture of me with a yellow sunflower (of course), an introduction and a description of the website centreing it in the middle of the page.
 
 ### About
 
-The about page has information about my interests, skills, work and study history.
+The about page contains information about my interests, skills, work and study history.
 
 I wrote a some content about my interests to demonstrate my personality.
 
@@ -52,4 +52,13 @@ Each card contains a title, published date, image and a button to read more.
 
 ### Posts
 
-Each post contains a title, image
+Each post contains a title, image, published date, text and two buttons to navigate back and forth between each post so users don't need to go back to the blog page to read another post.
+
+### Contact
+
+This page is simple and keeping to theme of the home page feautures an image of a sunflower styled in the same way as the home page image except the border colour and a small list of contact information - email and phone.
+
+I also linked my GitHub and LinkedIn as buttons for other ways to connect with me which open a new tab to my respective profiles.
+
+## Sitemap
+
