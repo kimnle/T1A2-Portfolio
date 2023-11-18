@@ -46,4 +46,10 @@ I designed the "My Resume" link to open the PDF of my resume in an external tab 
 
 ### Blog
 
-The blog cards are 
+The blog cards are in two columns for desktop and tablet users and one column for mobile.
+
+Each card contains a title, published date, image and a button to read more.
+
+### Posts
+
+Each post contains a title, image
