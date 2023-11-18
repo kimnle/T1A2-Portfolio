@@ -62,3 +62,43 @@ I also linked my GitHub and LinkedIn as buttons for other ways to connect with m
 
 ## Sitemap
 
+![Sitemap](./docs/sitemap.png "Sitemap")
+
+## Wireframes
+
+Wireframes are designed using mobile, tablet and desktop frames.
+
+### Home
+
+![Home wireframes](./docs/wireframes/home.png "Home wireframes")
+
+### About
+
+![About wireframes](./docs/wireframes/about.png "About wireframes")
+
+### Blog
+
+![Blog wireframes](./docs/wireframes/blog.png "Blog wireframes")
+
+### Posts
+
+![Posts wireframes](./docs/wireframes/posts.png "Posts wireframes")
+
+### Contact
+
+![Contact wireframes](./docs/wireframes/contact.png "Contact wireframes")
+
+## Screenshots
+
+### Home
+
+![Home mobile screenshot](./docs/screenshots/home-mobile.png "Home mobile screenshot")
+
+![Home tablet screenshot](./docs/screenshots/home-tablet.png "Home tablet screenshot")
+
+![Home desktop screenshot](./docs/screenshots/home-desktop.png "Home desktop screenshot")
+
+### About
+
+![About mobile screenshots](./docs/screenshots/about-mobile.png "About mobile screenshot")
+![](./docs/screenshots/about2-mobile.png "About mobile screenshot 2")
