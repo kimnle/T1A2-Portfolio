@@ -47,21 +47,21 @@
 .progress {
   width: 100%;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 /* Bars */
 .bar {
-  width: 90%;
+  width: 70%;
   border: 2px solid black;
   border-radius: 6px;
 }
 
 #css-bar {
-  margin-left: 1.5vh;
+  margin-left: 2vh;
 }
 
 #git-bar {
-  margin-left: 2.5vh;
+  margin-left: 3vh;
 }
 
 .bar div {
