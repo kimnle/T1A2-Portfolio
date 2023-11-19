@@ -38,7 +38,7 @@ The about page contains information about my interests, skills, work and study h
 
 I've written some content about my interests to demonstrate my personality.
 
-Within the "My Skills" part, there are bars indicating my learning progress for each skill - HTML, CSS and Git, encompassing what we've learnt so far in this boot camp.
+Within the "My Skills" part, there are bars indicating my learning progress for each skill - HTML, CSS and Git, encompassing what we've learnt so far in this boot camp. The bars are animated to fill up to specified percentage when users enter the page.
 
 An unordered list outlines my work and study history.
 
