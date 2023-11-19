@@ -18,6 +18,8 @@ Each page features a logo and navigation bar at the top, linking to the other ma
 
 The website is designed to minimilse scrolling, allowing users, especially employers, to quickly review it like a resume.
 
+The cursor displays as a pointer when hovered over links, indicating to users that the element is clickable. This assumption relies on users recognising that an image of a pointing hand indicates a link.
+
 This portfolio includes the following main pages:
 
 * Home
