@@ -6,19 +6,19 @@
 
 ## Purpose
 
-To showcase me and my skills as an aspiring full-stack developer in the world of technology. For potential collaborators, employers and/or clients.
+To showcase myself and my skills as an aspiring full-stack developer in the world of technology and to demonstrate my ability to create user-centric functions.
 
 ## Functionality/features
 
-This is a responsive portfolio website that works for any device.
+This is a responsive portfolio website that fuctions seamlessly on any device.
 
-I designed the portfolio website to be simple. As yellow is the main colour I used black text to increase visibility.
+I designed the portfolio website to be simple, utilising black text for increased visibility against the main colour, yellow.
 
-There is a logo and navigation bar at the top of every page linking to the other main pages. The logo links to the home page. When adjusted to tablet and mobile device the navigation becomes a menu icon and when clicked on pops up a list of the links to the other main pages.
+Each page features a logo and navigation bar at the top, linking to the other main pages. The logo serves as a link to the home page. On mobile and tablet devices, the navigation transforms into a menu icon. Clicking on it reveals a list of links to the other main pages.
 
-I designed the website to have minimal scrolling for users (particularly employers) to read at a glance like a resume.
+The website is designed to minimilse scrolling, allowing users, especially employers, to quickly review it like a resume.
 
-This portfolio has the following pages:
+This portfolio includes the following main pages:
 
 * Home
 
@@ -30,25 +30,25 @@ This portfolio has the following pages:
 
 ### Home
 
-Keeping to the simplicity theme the home page contains a picture of me with a yellow sunflower (of course), an introduction and a description of the website centreing it in the middle of the page.
+Staying true to the simplicity theme, the home page features a picture of me with a yellow sunflower (of course), along with an introduction and a description of the website, all centered in the middle of the page.
 
 ### About
 
 The about page contains information about my interests, skills, work and study history.
 
-I wrote a some content about my interests to demonstrate my personality.
+I've written some content about my interests to demonstrate my personality.
 
-Within the "My Skills" part are bars showing my learning progress of each skill - HTML, CSS and Git being what we've learnt so far in this boot camp.
+Within the "My Skills" part, there are bars indicating my learning progress for each skill - HTML, CSS and Git, encompassing what we've learnt so far in this boot camp.
 
-An unordered list of my work and study history is provided.
+An unordered list outlines my work and study history.
 
-I designed the "My Resume" link to open the PDF of my resume in an external tab in order to keep users on my site longer and not take away the experience for the user.
+I designed the "My Resume" link to open the PDF of my resume in an external tab. This approach aims to keep users on my site longer, enhancing their experience.
 
 ### Blog
 
-The blog cards are in two columns for desktop and tablet users and one column for mobile.
+The blog cards are arranged in two columns for desktop and tablet users and a single column for mobile users.
 
-Each card contains a title, published date, image and a button to read more.
+Each card includes a title, published date, image, and a 'Read Post' button.
 
 ### Posts
 
@@ -92,13 +92,95 @@ Wireframes are designed using mobile, tablet and desktop frames.
 
 ### Home
 
+Mobile
+
 ![Home mobile screenshot](./docs/screenshots/home-mobile.png "Home mobile screenshot")
 
+Tablet
+
 ![Home tablet screenshot](./docs/screenshots/home-tablet.png "Home tablet screenshot")
+
+Desktop
 
 ![Home desktop screenshot](./docs/screenshots/home-desktop.png "Home desktop screenshot")
 
 ### About
 
 ![About mobile screenshots](./docs/screenshots/about-mobile.png "About mobile screenshot")
-![](./docs/screenshots/about2-mobile.png "About mobile screenshot 2")
+![About mobile screenshots](./docs/screenshots/about2-mobile.png "About mobile screenshot 2")
+
+![About tablet screenshots](./docs/screenshots/about-tablet.png "About tablet screenshot")
+![About tablet screenshots](./docs/screenshots/about2-tablet.png "About tablet screenshot 2")
+
+![About desktop screenshot](./docs/screenshots/about-desktop.png "About desktop screenshort")
+
+### Blog
+
+Mobile
+
+![Blog mobile screenshots](./docs/screenshots/blog-mobile.png "Blog mobile screenshot")
+![Blog mobile screenshots](./docs/screenshots/blog2-mobile.png "Blog mobile screenshot 2")
+![Blog mobile screenshots](./docs/screenshots/blog3-mobile.png "Blog mobile screenshot 3")
+
+Tablet
+
+![Blog tablet screenshots](./docs/screenshots/blog-tablet.png "Blog tablet screenshot")
+![Blog tablet screenshots](./docs/screenshots/blog2-tablet.png "Blog tablet screenshot 2")
+
+Desktop
+
+![Blog desktop screenshot](./docs/screenshots/blog-desktop.png "Blog desktop screenshot")
+![Blog desktop screenshot](./docs/screenshots/blog2-desktop.png "Blog desktop screenshot 2")
+
+### Posts
+
+Mobile
+
+![Posts mobile screenshot](./docs/screenshots/posts-mobile.png "Posts mobile screenshot")
+![Posts mobile screenshot](./docs/screenshots/posts2-mobile.png "Posts mobile screenshot 2")
+
+Tablet
+
+![Posts tablet screenshot](./docs/screenshots/posts-tablet.png "Posts tablet screenshot")
+
+Desktop
+
+![Posts desktop screenshot](./docs/screenshots/posts-desktop.png "Posts desktop screenshot")
+
+### Contact
+
+Mobile
+
+![Contact mobile screenshot](./docs/screenshots/contact-mobile.png "Contact mobile screenshot")
+
+Tablet
+
+![Contact tablet screenshot](./docs/screenshots/contact-tablet.png "Contact tablet screenshot")
+
+Desktop
+
+![Contact desktop screenshot](./docs/screenshots/contact-desktop.png "Contact desktop screenshot")
+
+### Navigation menu
+
+Mobile
+
+![Navigation menu mobile screenshot](./docs/screenshots/menu-mobile.png "Navigation menu mobile screenshot")
+
+Tablet
+
+![Navigation menu tablet screenshot](./docs/screenshots/menu-tablet.png "Navigation menu tablet screenshot")
+
+## Target Audience
+
+Potential collaborators, employers and/or clients.
+
+## Tech Stack
+
+* Wesbite: HTML, CSS, JavaScript
+
+* Deployment platform: [Netlify](https://www.netlify.com/)
+
+* Sitemap: [Draw.io](https://www.drawio.com/)
+
+* Wireframe: [Figma](https://www.figma.com/)
