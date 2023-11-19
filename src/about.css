@@ -39,6 +39,14 @@
 .about-text span {
   color: black;
 }
+/* Bars */
+.skills {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
 
 .progress:not(last-child) {
   margin: 1vh;
@@ -49,7 +57,7 @@
   display: flex;
   justify-content: space-evenly;
 }
-/* Bars */
+
 .bar {
   width: 70%;
   border: 2px solid black;
