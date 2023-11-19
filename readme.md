@@ -46,19 +46,19 @@ I designed the "My Resume" link to open the PDF of my resume in an external tab.
 
 ### Blog
 
-The blog cards are arranged in two columns for desktop and tablet users and a single column for mobile users.
+The blog cards are arranged in two columns for tablet and desktop users and a single column for mobile users.
 
 Each card includes a title, published date, image, and a 'Read Post' button.
 
 ### Posts
 
-Each post contains a title, image, published date, text and two buttons to navigate back and forth between each post so users don't need to go back to the blog page to read another post.
+Each post includes a title, image, published date, text, and two buttons for navigating back and forth between posts. This design ensures users don't need to return to the blog page to read another post.
 
 ### Contact
 
-This page is simple and keeping to theme of the home page feautures an image of a sunflower styled in the same way as the home page image except the border colour and a small list of contact information - email and phone.
+This page is simple and adheres to the theme of the home page. It features an image of a sunflower styled similarly to the home page image, with the exception of the border color. Additionally, there's a small list of contact information, including email and phone.
 
-I also linked my GitHub and LinkedIn as buttons for other ways to connect with me which open a new tab to my respective profiles.
+I've also included links to my GitHub and LinkedIn as buttons, providing alternative ways to connect with me. Clicking on these buttons opens a new tab to my respective profiles.
 
 ## Sitemap
 
@@ -66,7 +66,7 @@ I also linked my GitHub and LinkedIn as buttons for other ways to connect with m
 
 ## Wireframes
 
-Wireframes are designed using mobile, tablet and desktop frames.
+Wireframes are designed using frames for mobile, tablet, and desktop devices.
 
 ### Home
 
