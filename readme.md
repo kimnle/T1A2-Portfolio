@@ -177,7 +177,7 @@ Potential collaborators, employers and/or clients.
 
 ## Tech Stack
 
-* Wesbite: HTML, CSS, JavaScript
+* Wesbite: HTML, CSS
 
 * Deployment platform: [Netlify](https://www.netlify.com/)
 
