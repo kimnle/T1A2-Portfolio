@@ -144,10 +144,6 @@ main h1 {
         margin-bottom: 1vh;
         border-radius: 5px;
     }
-    header>.nav-container>li:active {
-        background-color: #ffa;
-        cursor: pointer;
-    }
     .nav-container button {
         width: 98%;
     }
