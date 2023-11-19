@@ -32,7 +32,7 @@ This portfolio includes the following main pages:
 
 ### Home
 
-Staying true to the simplicity theme, the home page features a picture of me with a yellow sunflower (of course), along with an introduction and a description of the website, all centered in the middle of the page.
+Staying true to the simplicity theme, the home page features a picture of me with a yellow sunflower, along with an introduction and a description of the website, all centered in the middle of the page.
 
 ### About
 
