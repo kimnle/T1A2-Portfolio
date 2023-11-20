@@ -10,7 +10,7 @@ To showcase myself and my skills as an aspiring full-stack developer in the worl
 
 ## Functionality/features
 
-This is a responsive portfolio website that fuctions seamlessly on any device.
+This is a responsive portfolio website that functions seamlessly on any device.
 
 I designed the portfolio website to be simple, utilising black text for increased visibility against the main colour, yellow.
 
@@ -32,7 +32,7 @@ This portfolio includes the following main pages:
 
 ### Home
 
-Staying true to the simplicity theme, the home page features a picture of me with a yellow sunflower, along with an introduction and a description of the website, all centered in the middle of the page.
+Staying true to the simplicity theme, the home page features a picture of me with a yellow sunflower, along with an introduction and a description of the website, all centred in the middle of the page.
 
 ### About
 
@@ -58,7 +58,7 @@ Each post includes a title, image, published date, text, and two buttons for nav
 
 ### Contact
 
-This page is simple and adheres to the theme of the home page. It features an image of a sunflower styled similarly to the home page image, with the exception of the border color. Additionally, there's a small list of contact information, including email and phone.
+This page is simple and adheres to the theme of the home page. It features an image of a sunflower styled similarly to the home page image, with the exception of the border colour. Additionally, there's a small list of contact information, including email and phone.
 
 I've also included links to my GitHub and LinkedIn as buttons, providing alternative ways to connect with me. Clicking on these buttons opens a new tab to my respective profiles.
 
