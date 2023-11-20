@@ -4,6 +4,8 @@
 
 [GitHub repo](https://github.com/kimnle/KimNganThiLe_T1A2)
 
+[Presentation](https://vimeo.com/886391305/a3813f6b25?share=copy)
+
 ## Purpose
 
 To showcase myself and my skills as an aspiring full-stack developer in the world of technology and to demonstrate my ability to create user-centric functions.
