@@ -1,0 +1,20 @@
+#portfolio {
+    background-color: var(--pink); 
+    padding: 4vw 0 4vw 0;
+    text-align: center;
+}
+
+.project {
+    width: 90vw;
+    display: inline-block;
+}
+
+.project img{
+    max-width: 100%;
+    height: auto;
+}
+
+#portfolio h2, #portfolio p, #portfolio h3 {
+    margin: 0.5rem 0;
+}
+

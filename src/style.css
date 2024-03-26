@@ -1,0 +1,51 @@
+:root {
+    --blue: #B3ECF1;
+    --yellow: #FFA;
+    --orange: #FFD689;
+    --pink: #FAB1C9;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Inria Sans", sans-serif;
+    line-height: 1.5;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: var(--yellow);
+}
+
+header img {
+    max-width: 8vh;
+}
+
+nav {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    text-align: center;
+    background-color: var(--yellow);
+}
+
+nav ul li {
+    display: inline;
+    margin: 3vw;
+}
+
+nav ul li a {
+    color: black;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+footer {
+    background-color: var(--yellow);
+    text-align: center;
+    padding: 1vh;
+}
