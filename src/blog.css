@@ -1,12 +1,12 @@
 #blog {
     background-color: var(--blue); 
-    padding: 5vw 0 5vw 0;
+    padding: 4vw 0 4vw 0;
     text-align: center;
 }
 
 .post {
     width: 90vw;
-    height: 60vh;
+    height: 45vh;
     display: inline-block;
 }
 
@@ -20,21 +20,26 @@
 }
 
 @media only screen and (min-width: 768px) {
+    #blog {
+        padding: 3vw 0 0 0;
+    }
     .post {
         width: 45vw;
-        height: 60vh;
-        display: inline-block;
+        height: 45vh;
     }
     .post img {
         height: 250px;
     }
-    #blog {
-        padding-bottom: 1vh;
-    }
 }
 
 @media only screen and (min-width: 992px) {
-    #home {
-        padding: 3vw 0 3vw 0;
+    #blog {
+        padding: 1vw 0 0 0;
+    }
+    .post {
+        height: 40vw;
+    }
+    .post img {
+        height: 600px;
     }
 }

@@ -1,6 +1,6 @@
 #about {
     background-color: var(--orange); 
-    padding: 4vw 1vw 4vw 1vw;
+    padding: 4vw;
     text-align: center;
 }
 
@@ -37,11 +37,22 @@
 }
 
 @media only screen and (min-width: 768px) {
+    #about {
+        padding: 3vw 3vw 3vw 3vw;
+    }
     #about article {
         display: flex;
         flex-direction: row;
         justify-content: space-evenly;
         align-items: start;
-        margin-bottom: 1vw;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    #about {
+        padding: 1vw 1vw 1vw 1vw;
+    }
+    .web-fundamentals {
+        margin-bottom: 2vw;
     }
 }
