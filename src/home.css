@@ -17,14 +17,14 @@
     margin: 0.5rem 0;
 }
 
-/* tablet screen */
+/* tablet viewport */
 @media only screen and (min-width: 768px) {
     #home {
         padding: 5vw 0 5vw 0;
     }
 }
 
-/* desktop screen */
+/* desktop viewport */
 @media only screen and (min-width: 992px) {
     #home {
         padding: 2vw 0 2vw 0;

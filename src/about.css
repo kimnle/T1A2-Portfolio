@@ -43,7 +43,7 @@
     padding: 1vh;
 }
 
-/* tablet screen */
+/* tablet viewport */
 @media only screen and (min-width: 768px) {
     #about {
         padding: 3vw 3vw 3vw 3vw;
@@ -56,7 +56,7 @@
     }
 }
 
-/* desktop screen */
+/* desktop viewport */
 @media only screen and (min-width: 992px) {
     #about {
         padding: 1vw 1vw 1vw 1vw;

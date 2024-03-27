@@ -22,14 +22,14 @@
     margin: 0.5rem 0;
 }
 
-/* tablet screen */
+/* tablet viewport */
 @media only screen and (min-width: 768px) {
     #portfolio {
         padding: 3vw 0 3vw 0;
     }
 }
 
-/* desktop screen */
+/* desktop viewport */
 @media only screen and (min-width: 992px) {
     #portfolio {
         padding: 1vw 0 1vw 0;
