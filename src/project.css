@@ -4,12 +4,12 @@ main {
     text-align: center;
 }
 
-main img {
+main article figure img {
     max-width: 100%;
     height: auto;
 }
 
-main h2, main p {
+main article h2, main article p {
     margin: 0.5rem 0;
 }
 

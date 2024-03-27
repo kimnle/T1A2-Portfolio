@@ -1,3 +1,4 @@
+/* variables */
 :root {
     --blue: #B3ECF1;
     --yellow: #FFA;
@@ -5,6 +6,7 @@
     --pink: #FAB1C9;
 }
 
+/* all elements */
 * {
     box-sizing: border-box;
     margin: 0;
@@ -13,6 +15,7 @@
     line-height: 1.5;
 }
 
+/* header */
 header {
     display: flex;
     flex-direction: column;
@@ -21,10 +24,12 @@ header {
     background: var(--yellow);
 }
 
+/* header image */
 header img {
     max-width: 8vh;
 }
 
+/* navigation */
 nav {
     position: sticky;
     top: 0;
@@ -33,17 +38,20 @@ nav {
     background-color: var(--yellow);
 }
 
+/* navigation list */
 nav ul li {
     display: inline;
     margin: 3vw;
 }
 
+/* navigation links */
 nav ul li a {
     color: black;
     text-decoration: none;
     font-size: 1.2rem;
 }
 
+/* footer */
 footer {
     background-color: var(--yellow);
     text-align: center;

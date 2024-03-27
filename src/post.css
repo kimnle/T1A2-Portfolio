@@ -4,16 +4,16 @@ main {
     text-align: center;
 }
 
-main img{
+main article figure img{
     max-width: 100%;
     height: auto;
 }
 
-main h2, main p {
+main article h2, main p {
     margin: 0.5rem 0;
 }
 
-div {
+main div {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -21,6 +21,6 @@ div {
     margin-top: 4vw;
 }
 
-div img {
+main div img {
     height: 5vh;
 }

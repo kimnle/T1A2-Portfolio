@@ -1,9 +1,11 @@
+/* contact section */
 #contact {
     background-color: var(--orange); 
     padding: 1vw 0 1vw 0;
     text-align: center;
 }
 
+/* social media links icons */
 #contact div {
     display: flex;
     flex-direction:row;
@@ -11,6 +13,7 @@
     align-items: center;
 }
 
+/* contact text */
 #contact h2 {
     margin: 0.5rem 0;
 }

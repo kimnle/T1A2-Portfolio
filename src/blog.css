@@ -1,24 +1,29 @@
+/* blog section */
 #blog {
     background-color: var(--blue); 
     padding: 4vw 0 4vw 0;
     text-align: center;
 }
 
+/* post articles */
 .post {
     width: 90vw;
     height: 45vh;
     display: inline-block;
 }
 
+/* post images */
 .post img{
     max-width: 100%;
     height: auto;
 }
 
+/* blog text */
 #blog h2, #blog p, #blog h3 {
     margin: 0.5rem 0;
 }
 
+/* tablet screen */
 @media only screen and (min-width: 768px) {
     #blog {
         padding: 3vw 0 0 0;
@@ -32,6 +37,7 @@
     }
 }
 
+/* desktop screen */
 @media only screen and (min-width: 992px) {
     #blog {
         padding: 1vw 0 0 0;

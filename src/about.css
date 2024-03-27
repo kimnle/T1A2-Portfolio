@@ -1,25 +1,31 @@
+/* about section */
 #about {
     background-color: var(--orange); 
     padding: 4vw;
     text-align: center;
 }
 
+/* about text */
 #about h2, #about p, #about h3 {
     margin: 0.5rem 0;
 }
 
+/* about list */
 #about ul {
     list-style-position: inside;
 }
 
+/* work history list */
 .work-history ul ul ul {
     list-style-type: none;
 }
 
+/* study history list */
 .study-history ul ul {
     list-style-type: none;
 }
 
+/* web fundamental icons */
 .web-fundamentals {
     display: flex;
     flex-direction: row;
@@ -28,6 +34,7 @@
     margin-bottom: 4vw;
 }
 
+/* resume link */
 #about a {
     color: black;
     text-decoration: none;
@@ -36,6 +43,7 @@
     padding: 1vh;
 }
 
+/* tablet screen */
 @media only screen and (min-width: 768px) {
     #about {
         padding: 3vw 3vw 3vw 3vw;
@@ -48,6 +56,7 @@
     }
 }
 
+/* desktop screen */
 @media only screen and (min-width: 992px) {
     #about {
         padding: 1vw 1vw 1vw 1vw;
