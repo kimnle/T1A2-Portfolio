@@ -12,4 +12,5 @@ The portfolio website serves as a window into my skills and experience as a full
 
 ### Functionality/features
 
-The navigation is sticky 
+As the home, about, portfolio, blog and contact sections are on one page, the navigation is sticky so that visitors of the site can navigate to different sections of the page without scrolling to the top of the page every time.
+
