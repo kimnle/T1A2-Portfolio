@@ -4,6 +4,8 @@
 
 [Link to GitHub repo](https://github.com/kimnle/T1A2-Portfolio)
 
+[Presentation](https://vimeo.com/929245334/b8177033d8?share=copy)
+
 ## Description of portoflio website
 
 ### Purpose
@@ -26,51 +28,57 @@ Built with accessibility as its core, the website utilises semantic elements for
 
 **Mobile**
 
-Main page
+Following a mobile-first approach, I initially created the wireframes in Figma. This ensured a strong foundation for a user-friendly experience across all devices.
 
-![Wireframe mobile main page](/docs/wireframe-mobile-main.png)
+* Main page
 
-Portfolio pages
+![Wireframe mobile main page](/docs/wireframe-mobile-mainn.png)
 
-![Wireframe mobile portfolio page](/docs/wireframe-mobile-portfolio.png)
+* Projects pages
 
-Blog pages
+![Wireframe mobile portfolio page](/docs/wireframe-mobile-projects.png)
 
-![Wireframe mobile blog page](/docs/wireframe-mobile-blog.png)
+* Posts pages
+
+![Wireframe mobile blog page](/docs/wireframe-mobile-postss.png)
 
 **Tablet**
 
-Main page
+For wider tablet and desktop displays, I implemented Flexbox to achieve a side-by-side layout for the subheadings and their corresponding text within the about section. This approach was also applied to the blog section, ensuring articles are displayed consistently, as reflected in the wireframes and website screenshots below.
+
+* Main page
 
 ![Wireframe tablet main page](/docs/wireframe-tablet-main.png)
 
-Portfolio pages
+* Projects pages
 
-![Wireframe tablet portfolio page](/docs/wireframe-tablet-portfolio.png)
+![Wireframe tablet portfolio page](/docs/wireframe-tablet-projects.png)
 
-Blog pages
+* Posts pages
 
-![Wireframe tablet blog page](/docs/wireframe-tablet-blog.png)
+![Wireframe tablet blog page](/docs/wireframe-tablet-posts.png)
 
 **Desktop**
 
-Main page
+As evident from the wireframes and website screenshots at various screen sizes, a focus on consistency was prioritised throughout the design process. Key components like the header, header logo, navigation, and footer were designed to remain consistent. Similarly, the home, portfolio, and contact sections maintain a similar layout, with the potential for the portfolio section to evolve as more projects are added, but will maintain the overall design language. The projects and posts pages also follow this consistent design approach.
+
+* Main page
 
 ![Wireframe desktop main page](/docs/wireframe-desktop-main.png)
 
-Portfolio pages
+* Projects pages
 
-![Wireframe desktop portfolio page](/docs/wireframe-desktop-portfolio.png)
+![Wireframe desktop portfolio page](/docs/wireframe-desktop-projects.png)
 
-Blog pages
+* Posts pages
 
-![Wireframe desktop blog page](/docs/wireframe-desktop-blog.png)
+![Wireframe desktop blog page](/docs/wireframe-desktop-posts.png)
 
 #### Website
 
 **Mobile**
 
-Main page
+* Main page
 
 ![Website mobile home and about section](/docs/website-mobile-1.png)
 ![Website mobile about section](/docs/website-mobile-2.png)
@@ -79,19 +87,19 @@ Main page
 ![Website mobile blog section 2](/docs/website-mobile-5.png)
 ![Website mobile contact section](/docs/website-mobile-6.png)
 
-Portfolio pages
+* Projects pages
 
-![Website mobile portfolio page 1](/docs/website-mobile-7.png)
-![Website mobile portfolio page 2](/docs/website-mobile-8.png)
+![Website mobile projects page 1](/docs/website-mobile-7.png)
+![Website mobile projects page 2](/docs/website-mobile-8.png)
 
-Blog pages
+* Posts pages
 
-![Website mobile blog page 1](/docs/website-mobile-9.png)
-![Website mobile blog page 2](/docs/website-mobile-10.png)
+![Website mobile posts page 1](/docs/website-mobile-9.png)
+![Website mobile posts page 2](/docs/website-mobile-10.png)
 
 **Tablet**
 
-Main page
+* Main page
 
 ![Website tablet home section](/docs/website-tablet-1.png)
 ![Website tablet about section](/docs/website-tablet-2.png)
@@ -99,19 +107,19 @@ Main page
 ![Website tablet blog section](/docs/website-tablet-4.png)
 ![Website tablet contact section](/docs/website-tablet-5.png)
 
-Portfolio pages
+* Projects pages
 
-![Website tablet portfolio page 1](/docs/website-tablet-6.png)
-![Website tablet portfolio page 2](/docs/website-tablet-7.png)
+![Website tablet projects page 1](/docs/website-tablet-6.png)
+![Website tablet projects page 2](/docs/website-tablet-7.png)
 
-Blog pages
+* Posts pages
 
-![Website tablet blog page 1](/docs/website-tablet-8.png)
-![Website tablet blog page 2](/docs/website-tablet-9.png)
+![Website tablet posts page 1](/docs/website-tablet-8.png)
+![Website tablet posts page 2](/docs/website-tablet-9.png)
 
 **Desktop**
 
-Main page
+* Main page
 
 ![Website desktop home section](/docs/website-desktop-1.png)
 ![Website desktop home and portfolio section](/docs/website-desktop-2.png)
@@ -121,19 +129,19 @@ Main page
 ![Website desktop blog section 3](/docs/website-desktop-6.png)
 ![Website desktop contact section](/docs/website-desktop-7.png)
 
-Portfolio pages
+* Projects pages
 
-![Website desktop portfolio page 1](/docs/website-desktop-8.png)
-![Website desktop portfolio page 2](/docs/website-desktop-9.png)
+![Website desktop projects page 1](/docs/website-desktop-8.png)
+![Website desktop projects page 2](/docs/website-desktop-9.png)
 
-Blog pages
+* Posts pages
 
-![Website desktop blog page 1](/docs/website-desktop-10.png)
-![Website desktop blog page 2](/docs/website-desktop-11.png)
+![Website desktop posts page 1](/docs/website-desktop-10.png)
+![Website desktop posts page 2](/docs/website-desktop-11.png)
 
 ### Sitemap
 
-![Sitemap](/docs/sitemap.png)
+![Sitemap](/docs/sitemapp.png)
 
 ### Target audience
 
